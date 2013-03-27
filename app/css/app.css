@@ -1,0 +1,15 @@
+#cometLogoSizer{
+ height: auto;
+ width: 50px;
+ padding-left: 10px;
+ margin-top: -5px;
+}
+
+#navbarTopAlign{
+    margin-top: 10px;
+}
+
+#footerSizing{
+    width: 100%;
+    margin-bottom: 5px;
+}
